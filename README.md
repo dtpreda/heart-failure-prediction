@@ -14,12 +14,12 @@ I used this project as a way to practice with Keras, so I decided to use a simpl
 
 For regularization, I used dropout layers, with different dropout rates for each layer.
 
-The loss function used was binary crossentropy, and the metric was accuracy.
+The loss function used was binary crossentropy, and the metric was AUC.
 
 ## Results
 
-The loss function used was binary crossentropy, and the metric was accuracy.
+The loss function used was binary crossentropy, and the metric was AUC.
 
-| Model | Accuracy | Loss |
+| Model | AUC | Loss |
 | --- | --- | --- |
-| Baseline | 0.8913 | 0.2912 |
+| Baseline | 0.9492 | 0.2853 |
